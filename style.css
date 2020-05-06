@@ -1,0 +1,33 @@
+/* Registration Page CSS */
+#logo{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 0px;
+}
+#tab{
+    border-spacing: 20px;
+    border-color: indigo;
+   padding:5px;
+   background-color: rgb(83, 98, 240);
+   text-decoration-color: ivory;
+   font-size: 20px;
+   color: white;
+}
+/* Verification Page CSS */
+#tick{
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 0px;
+}
+#head1{
+    font-size: 70px;
+    color: green; 
+}
+#head02{
+    color: indigo;
+    font-family: 'Times New Roman', Times, serif;
+}
